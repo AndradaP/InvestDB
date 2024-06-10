@@ -2,7 +2,7 @@
 
 By Andrada Pantelimon
 
-Video overview: <URL HERE>
+Project overview: https://docs.google.com/presentation/d/1CkpW0RhTW8X-g1Dche3OZxn7hpl20Z6XhJnAe51KUp4/edit?usp=sharing
 
 ## Scope
 
