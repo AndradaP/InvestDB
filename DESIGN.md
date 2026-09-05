@@ -7,7 +7,7 @@ Project overview: https://docs.google.com/presentation/d/1CkpW0RhTW8X-g1Dche3OZx
 ## Scope
 
 * Purpose of the database:
-The purpose of this database is to create a simplified personal finance application that allows users to manage their finances efficiently. Users can visualize their total wealth across multiple accounts, track transactions, manage budgets, and receive personalized investment recommendations to improve their financial health.
+This is a mock investment portfolio that allows users to manage their finances efficiently, built as capstone for Harvard's online SQL course. Users can visualize their total wealth across multiple accounts, track transactions, manage budgets, and receive personalized investment recommendations to improve their financial health.
 
 * Entities included in the scope of the database:
 - Users
